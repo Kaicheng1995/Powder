@@ -3,6 +3,11 @@ const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const formidable = require('express-formidable');
 const cloudinary = require('cloudinary');
+const SHA1 = require("crypto-js/sha1"); 
+const multer = require('multer');
+const moment = require("moment");
+const fs = require('fs');
+const path = require('path');
 
 const app = express();
 const mongoose = require('mongoose');
