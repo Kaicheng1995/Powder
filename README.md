@@ -5,7 +5,7 @@
 
 **"No friends on powder days!"** When the snow, especially for **powder** snow, is good to take care of all the needs as a snowboarder, or skier, there would be no time for dealing with friendship stuff.  
 <div align=center>
-  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="500"> 
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="400"> 
 </div>
 
 As a snowboarding lover, I wrote this web app, and hope to establish a snowboards shopping website in China. Since China is going to host the 2022 Winter Olympic Games, and there isn't any direct sales channel for snowboards in China, I think it should be a good opportunity to start a business with the blooming market.
@@ -13,9 +13,16 @@ As a snowboarding lover, I wrote this web app, and hope to establish a snowboard
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+Create a new account, or login with below:
+```diff
++ User Account:
+  Email: kaicheng_jia@126.com
+  Password: 123456
+ 
+- Admin Account:
+  Email: ares.jia@hotmail.com
+  Password: 123456
+```
 
 ## Development setup
 
@@ -25,6 +32,10 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+<div align=center>
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="400"> 
+</div>
+
 
 ## Release History
 
