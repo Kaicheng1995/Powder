@@ -23,7 +23,10 @@ Create a new account, or login with below:
   Email: ares.jia@hotmail.com
   Password: 123456
 ```
-
+<div align=center>
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/login1.png" width="600"> 
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/register1.png" width="600"></div>
+  
 ## Development setup
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
@@ -32,8 +35,6 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
-<div align=center>
-<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/login.png" width="410"> <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/register.png" width="395"></div>
 
 
 ## Release History
