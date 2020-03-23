@@ -1,14 +1,18 @@
 # Powder
 > check it out: [powder.zone](https://limitless-beach-89648.herokuapp.com/")
 
+<div align=center>
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/captured (1).gif" width="600"> 
+</div>
 
+
+## Background
 **"No friends on powder days!"** When the snow, especially for **powder** snow, is good to take care of all the needs as a snowboarder, or skier, there would be no time for dealing with friendship stuff.  
   
 As a snowboarding lover, I wrote this web app, and hope to establish a snowboards shopping website in China. Since China is going to host the 2022 Winter Olympic Games, and there isn't any direct sales channel for snowboards in China, I think it should be a good opportunity to start a business with the blooming market.
 <div align=center>
-  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="400"> 
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="500"> 
 </div>
-
 
 
 ## Usage example
