@@ -90,6 +90,7 @@ server.js : create server
 ```
 ***Redux setup***
 ```
+-
 ```
 ***Register login component***
 ```
@@ -101,20 +102,43 @@ server.js : create server
 1/ create state and form
 2/ ......
 
+! Create register
+```
+***Dashboard***
+***Homepage***
+```
+1/ Cards
+2/ Slide
 ```
 
-## Usage example
+***Shoppage***
+```
+1/ Checkbox
+2/ Radio option
+3/ Shop grid
+```
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+***Admin***
+```
+1/ Add product
+2/ File upload
+3/ Manage category
+```
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+***Product detail***
+```
+1/ product info, image..
+2/ Add cart
+```
 
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
+***Cart***
+```
+1/ Add product
+2/ Card block
+3/ Calculate total
+4/ Remove item
+5/ Paypal button
+6/ Buy success
+7/ History
 ```
 
