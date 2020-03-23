@@ -4,11 +4,12 @@
 
 
 **"No friends on powder days!"** When the snow, especially for **powder** snow, is good to take care of all the needs as a snowboarder, or skier, there would be no time for dealing with friendship stuff.  
+  
+As a snowboarding lover, I wrote this web app, and hope to establish a snowboards shopping website in China. Since China is going to host the 2022 Winter Olympic Games, and there isn't any direct sales channel for snowboards in China, I think it should be a good opportunity to start a business with the blooming market.
 <div align=center>
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="400"> 
 </div>
 
-As a snowboarding lover, I wrote this web app, and hope to establish a snowboards shopping website in China. Since China is going to host the 2022 Winter Olympic Games, and there isn't any direct sales channel for snowboards in China, I think it should be a good opportunity to start a business with the blooming market.
 
 
 ## Usage example
@@ -29,15 +30,16 @@ Create a new account, or login with below:
   
 
   
-Dashboard: you can modify some info here **(PLS DONT MODIFY IF YOU LOGIN AS ADMIN!!)**
+Dashboard: you can modify some info here  
+**(PLS DONT MODIFY IF YOU LOGIN AS ADMIN!!)**
 ```diff
 DASHBOARD
 + Edit profile
 + Check Cart
 + Check transaction history
  
-- Add product:
-- Manage Categories
+- Add product: as an admin, we can just add product data here instead of on back-end
+- Manage Categories: as an admin, we can just manage category data here instead of on back-end
 ```
 <div align=center>
 <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/dashboard.png" width="600"> 
@@ -82,54 +84,16 @@ Payment: you can finish buying products with the test paypal account below
    Password: testing123
 ```
 <div align=center>
-<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay1.png" width="600"><img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay2.png" width="600"> 
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay1.png" width="800"><img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay2.png" width="600"> 
 </div>
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
+On /client
 ```
-
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+npm install @fortawesome/fontawesome@1.1.8 @fortawesome/fontawesome-free-solid@5.0.13 @fortawesome/react-fontawesome@0.0.20 @material-ui/core@1.2.2 axios@0.18.0 react-images@0.5.17 react-redux@5.0.7 react-router-dom@4.3.1 react-slick@0.23.1 redux@4.0.0 redux-promise@0.6.0 redux-thunk@2.3.0 react-dropzone@4.2.12 react-moment@0.7.7 react-paypal-express-checkout@1.0.4 --save
+```
+On /server
+```
+npm install bcrypt@3.0.6 body-parser@1.18.3 cloudinary@1.11.0 concurrently@3.6.0 cookie-parser@1.4.3 dotenv@6.0.0 express@4.16.3 express-formidable@1.0.0 jsonwebtoken@8.3.0 moment@2.22.2 mongoose@5.1.6 multer@1.3.0 --save
+```
