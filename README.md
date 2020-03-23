@@ -73,7 +73,7 @@ Search product, Add to Cart:
   you can check the items you've added to the cart
 ```
 <div align=center>
-<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/shop.png" width="600"><img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/shop2.png" width="600"> 
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/shop2.png" width="600"> 
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/cart.png" width="600"> 
 </div>
 
