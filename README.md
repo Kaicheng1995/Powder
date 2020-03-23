@@ -1,5 +1,5 @@
 # Powder
-> check it out: [redirected domain](http://powder.zone")  
+> check it out: [redirected domain](http://www.powder.zone")  
 > check it out: [original domain](https://limitless-beach-89648.herokuapp.com/")
 
 
