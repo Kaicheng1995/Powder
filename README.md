@@ -5,7 +5,7 @@
 
 
 <div align=center>
-  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/captured (1).gif" width="800"> 
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/captured (1).gif" width="700"> 
 </div>
 
 
