@@ -15,18 +15,76 @@ As a snowboarding lover, I wrote this web app, and hope to establish a snowboard
 
 Create a new account, or login with below:
 ```diff
-+ User Account:
++ USER ACCOUNT:
   Email: kaicheng_jia@126.com
   Password: 123456
  
-- Admin Account:
+- ADMIN ACCOUNT:
   Email: ares.jia@hotmail.com
   Password: 123456
 ```
 <div align=center>
 <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/login1.png" width="600"> 
-  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/register1.png" width="600"></div>
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/register1.png" width="600"></div>  
   
+
+  
+Dashboard: you can modify some info here **(PLS DONT MODIFY IF YOU LOGIN AS ADMIN!!)**
+```diff
+DASHBOARD
++ Edit profile
++ Check Cart
++ Check transaction history
+ 
+- Add product:
+- Manage Categories
+```
+<div align=center>
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/dashboard.png" width="600"> 
+</div>
+
+Check Product: go to homepage, select one product and click "SHOP NOW", "VIEW PRODUCT"
+```diff
+! HOME PAGE
+  Main slide
+  Best selling products
+  Promotion area
+  New arrival products
+
+! PRODUCT PAGE
+  Product detail
+```
+<div align=center>
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/home.png" width="600"> 
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/productpage.png" width="600"> 
+</div>
+
+Search product, Add to Cart:
+```diff
+! SHOP PAGE
+  Filter box: you can select the products using filter
+  Product layout: you can change the layout
+
+! CART PAGE
+  you can check the items you've added to the cart
+```
+<div align=center>
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/shop.png" width="600"><img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/shop2.png" width="600"> 
+  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/cart.png" width="600"> 
+</div>
+
+
+
+Payment: you can finish buying products with the test paypal account below
+```diff
++ TEST PAYPAL ACCOUNT: 
+   Account: sb-5yiaa1243914@personal.example.com
+   Password: testing123
+```
+<div align=center>
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay1.png" width="600"><img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay2.png" width="600"> 
+</div>
+
 ## Development setup
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
