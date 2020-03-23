@@ -32,9 +32,8 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
-<div align=center>
-  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="400"> 
-</div>
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/register.jpg" width="400"> 
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/login.jpg" width="400"> 
 
 
 ## Release History
