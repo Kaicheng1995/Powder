@@ -25,8 +25,7 @@ Create a new account, or login with below:
   Password: 123456
 ```
 <div align=center>
-<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/login1.png" width="600"> 
-  <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/register1.png" width="600"></div>  
+<img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/login1.png" width="600"></div>  
   
 
   
